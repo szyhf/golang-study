@@ -2,6 +2,10 @@
 
 Go语言学习笔记。
 
+## 目录
+
+[golang中的优雅停止的Once&Done.md](https://github.com/szyhf/golang-study/blob/master/golang中的优雅停止的Once&Done.md)
+
 ## 广告（笔者的其他仓库）
 
 ### 私房go-sproto
